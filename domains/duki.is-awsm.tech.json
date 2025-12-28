@@ -14,6 +14,7 @@
                 "name": "_vercel",
                 "value": "vc-domain-verify=duki.is-awsm.tech,96a432c5bb00a8941801"
             }
+        ]
     },
 
     "proxied": false
