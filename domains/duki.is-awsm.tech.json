@@ -1,0 +1,20 @@
+{
+    "domain": "is-awsm.tech",
+    "subdomain": "duki",
+
+    "owner": {
+        "username": "dukicloud-stack",
+        "email": "dukicloud@gmail.com"
+    },
+
+    "records": {
+        "CNAME": "b6be23e795b898a2.vercel-dns-017.com.",
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=duki.is-awsm.tech,96a432c5bb00a8941801"
+            }
+    },
+
+    "proxied": false
+}
